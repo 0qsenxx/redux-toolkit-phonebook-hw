@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/redux-phonebook/static/css/main.d4d4098f.css",
-    "main.js": "/redux-phonebook/static/js/main.d17d731c.js",
-    "index.html": "/redux-phonebook/index.html",
-    "main.d4d4098f.css.map": "/redux-phonebook/static/css/main.d4d4098f.css.map",
-    "main.d17d731c.js.map": "/redux-phonebook/static/js/main.d17d731c.js.map"
+    "main.css": "/redux-toolkit-phonebook-hw/static/css/main.d4d4098f.css",
+    "main.js": "/redux-toolkit-phonebook-hw/static/js/main.d17d731c.js",
+    "index.html": "/redux-toolkit-phonebook-hw/index.html",
+    "main.d4d4098f.css.map": "/redux-toolkit-phonebook-hw/static/css/main.d4d4098f.css.map",
+    "main.d17d731c.js.map": "/redux-toolkit-phonebook-hw/static/js/main.d17d731c.js.map"
   },
   "entrypoints": [
     "static/css/main.d4d4098f.css",
